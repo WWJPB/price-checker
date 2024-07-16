@@ -1,4 +1,5 @@
 <p>
+
 # Gold and silver price checker
 
 ## General info
