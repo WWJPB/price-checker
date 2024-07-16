@@ -1,5 +1,5 @@
 <p>
-  # Gold and silver price checker
+# Gold and silver price checker
 
 ## General info
 This project is simple price checker of gold and silver. The program refreshes the values ​​every 60 seconds.
